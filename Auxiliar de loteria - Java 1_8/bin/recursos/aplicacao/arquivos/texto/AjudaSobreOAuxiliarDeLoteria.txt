@@ -1,0 +1,11 @@
+	Auxiliar de loteria é um aplicativo desenvolvido por Clemilson Faustino Batista 
+e que auxilia na conferencia de resultados da Lotomania da Caixa.
+	Primeiro voce deve registrar um sorteio para que o aplicativo possa fazer 
+o calculo de resultado com as cartelas registradas.
+	O aplicativo oferece as opcoes de adicionar, pesquisar, editar e apagar registro 
+de cartelas.
+
+Contatos:
+	clemilson93@yahoo.com.br
+	www.linkedin.com/in/clemilson-batista-0a626aaa/
+	github.com/clemilson93
