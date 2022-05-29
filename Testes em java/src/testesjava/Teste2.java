@@ -16,6 +16,13 @@ public class Teste2 {
 		System.out.println("Contador 2: " + contador2.contador);
 		System.out.println("Contador 3: " + contador3.contador);
 		System.out.println("Contador principal: " + Contador.contador);
+		
+		try {
+			System.out.println(Teste2.class.forName("testesjava.Teste"));
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 	}
 

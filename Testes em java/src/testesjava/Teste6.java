@@ -2,6 +2,8 @@ package testesjava;
 
 import java.util.ArrayList;
 
+import javax.sound.sampled.AudioFormat;
+
 public class Teste6 {
 
 	public static void main(String[] args) {
@@ -9,6 +11,7 @@ public class Teste6 {
 		Pessoa p2 = new Pessoa("Paula");
 		Pessoa p3 = new Pessoa("Maria");
 		Pessoa p4 = new Pessoa("Celio");
+		
 		
 		System.out.println(p1.toString());
 		for(Equipamento e : p1.equipamentos) {
